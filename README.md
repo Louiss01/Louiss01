@@ -4,9 +4,9 @@
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy un desarrollador en constante aprendizaje.
 
-### 🔭 Proyectos Destacados
+### Proyectos Destacados
 
-- 🔒 **Backend para Gestión de Club de Tenis** *(Proyecto Privado)*
+- **Backend para Gestión de Club de Tenis** *(Proyecto Privado)*
   - **Tecnologías y Herramientas:** Java, Maven, APIs REST, Git/GitHub e IntelliJ IDEA.
   - **Mi rol:** Contribuidor.
   - **Aportaciones:** 
